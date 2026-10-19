@@ -1,5 +1,7 @@
 # Hi, I’m Omar Soudan 👋
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Location](https://img.shields.io/badge/Location-Egypt-orange)](https://en.wikipedia.org/wiki/Egypt) [![Grad Year](https://img.shields.io/badge/Graduation-2027-brightgreen)](https://github.com/) [![Email](https://img.shields.io/badge/Email-omarsoudan%40gmail.com-red?logo=gmail&logoColor=white)](mailto:omarsoudan@gmail.com)
+
 Computer & Communication Engineering student (minor in AI) from Egypt — expected graduation: 2027. I build practical tools and experiments at the intersection of algorithms, machine intelligence, and software engineering: search & optimization, local-first AI pipelines, and programmatic audio tools.
 
 ---
@@ -7,7 +9,7 @@ Computer & Communication Engineering student (minor in AI) from Egypt — expect
 ## 🔭 Currently
 - Developing an N‑Queens AI lab: classical search, metaheuristics, GA, PSO, and visualizers.
 - Building a local-first video transcription & translation pipeline (Whisper + Ollama).
-- Evolving PyJam: a small Python DAW for programmatic music and synthesis.
+- Evolving PyJam: a Python DAW for programmatic music and synthesis.
 
 ---
 
@@ -25,11 +27,21 @@ Computer & Communication Engineering student (minor in AI) from Egypt — expect
 ---
 
 ## 📂 Selected projects
-- n-queens-lab ��� multi-paradigm solvers + visualizer (search, annealing, GA, PSO)
-- AI-video-transcriber-and-translator — Whisper + Ollama local subtitle pipeline
+- n-queens-lab — multi-paradigm solvers & visualizer (search, annealing, GA, PSO)
+- AI-video-transcriber-and-translator — local Whisper + Ollama subtitle pipeline
 - PyJam — programmatic DAW for algorithmic music
 
 Check my pinned repos for demos and examples.
+
+---
+
+## 📊 GitHub stats (auto-generated)
+
+<!-- GitHub stats: shows public repo metrics and top languages. Activity heatmap is intentionally omitted. -->
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSoudan&show_icons=true&theme=default&hide_title=false&include_all_commits=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSoudan&layout=compact&hide_title=false&theme=default)
 
 ---
 
@@ -42,6 +54,6 @@ Check my pinned repos for demos and examples.
 
 ## 🤝 Contact
 - GitHub: https://github.com/OmarSoudan
-- Email: available on request
+- Email: omarsoudan@gmail.com
 
 Thanks for visiting — feel free to explore my repositories or open an issue/PR if you'd like to collaborate!
